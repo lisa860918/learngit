@@ -2,3 +2,4 @@ Git is a version control system.
 Git is free software flag.
 Git has a mutable index called stage.
 Git has a mutable index called stage2.
+Git has a mutable index called stage3.
