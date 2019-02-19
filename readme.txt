@@ -7,4 +7,4 @@ Git has a mutable index called stage4 checkout.
 Creating a new branch is quick AND simple issue01.
 add merge
 git stash
-
+push branch dev
